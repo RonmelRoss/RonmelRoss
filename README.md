@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonmelRoss
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning AWS DevOps
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on .Net, C#, React, Laravel, WordPress, PHP projects
 - 📫 How to reach me ronmelross@gmail.com, +63.977.378.4282, www.ronmelross.com
 
